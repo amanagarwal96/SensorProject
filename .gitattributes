@@ -1,2 +1,4 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
 angular-cli-19.2.15.tgz filter=lfs diff=lfs merge=lfs -text
+angular-cli-offline.zip filter=lfs diff=lfs merge=lfs -text
+data/** filter=lfs diff=lfs merge=lfs -text
