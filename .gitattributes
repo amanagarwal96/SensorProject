@@ -3,3 +3,5 @@ angular-cli-19.2.15.tgz filter=lfs diff=lfs merge=lfs -text
 angular-cli-offline.zip filter=lfs diff=lfs merge=lfs -text
 data/** filter=lfs diff=lfs merge=lfs -text
 node_module.zip filter=lfs diff=lfs merge=lfs -text
+nom.zip filter=lfs diff=lfs merge=lfs -text
+npm.zip filter=lfs diff=lfs merge=lfs -text
