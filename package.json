@@ -1,0 +1,19 @@
+{
+  "name": "sensor-project",
+  "version": "1.0.0",
+  "description": "Sensor arrangement optimization project with genetic algorithm",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo 'Project started'",
+    "test": "echo 'No tests specified'"
+  },
+  "keywords": [
+    "sensor",
+    "genetic-algorithm",
+    "optimization"
+  ],
+  "author": "Aman Kumar Agarwal",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+} 
